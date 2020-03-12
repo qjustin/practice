@@ -1,7 +1,7 @@
 package com.coding.training.algorithmic.string;
 
 /**
- * 题目：递增的三元子序列
+ * Offer：递增的三元子序列
  * 给定一个未排序的数组，请判断这个数组中是否存在长度为3的递增的子序列。
  *
  * 正式的数学表达如下:

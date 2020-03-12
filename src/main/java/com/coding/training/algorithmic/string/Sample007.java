@@ -4,7 +4,7 @@ package com.coding.training.algorithmic.string;
  * 验证回文字符串
  * Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
  *
- * Note: For the purpose of this 题目, we define empty string as valid palindrome.
+ * Note: For the purpose of this Offer, we define empty string as valid palindrome.
  *
  * Example 1:
  *

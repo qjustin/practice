@@ -5,7 +5,7 @@ package com.coding.training.algorithmic.linklist;
  * <p>
  * 9.复杂的链表复制
  * 问题描述
- * 题目：请实现函数ComplexListNode Clone(ComplexListNode head)，复制一个复杂链表。
+ * Offer：请实现函数ComplexListNode Clone(ComplexListNode head)，复制一个复杂链表。
  * 在复杂链表中，每个结点除了有一个Next指针指向下一个结点外，还有一个Sibling指向链表中的任意结点或者NULL。
  * <p>
  * 下图是一个含有5个结点的复杂链表。图中实线箭头表示m_pNext指针，虚线箭头表示m_pSibling指针。
