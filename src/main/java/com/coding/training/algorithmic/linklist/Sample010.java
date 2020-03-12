@@ -3,7 +3,7 @@ package com.coding.training.algorithmic.linklist;
 /**
  * 10.反转链表
  * 问题描述
- * Offer：定义一个函数，输入一个链表的头结点，反转该链表并输出反转后链表的头结点。如图：
+ * offer：定义一个函数，输入一个链表的头结点，反转该链表并输出反转后链表的头结点。如图：
  * 1 -> 2 -> 3 -> null
  * 3 -> 2 -> 1 -> null
  *

@@ -2,7 +2,7 @@ package com.coding.training.algorithmic.search;
 
 /**
  * leetCode(寻找峰值)-二分查找
- * Offer：
+ * offer：
  * 峰值元素是指其值大于左右相邻值的元素。
  *
  * 给定一个输入数组 nums，其中 nums[i] ≠ nums[i+1]，找到峰值元素并返回其索引。
