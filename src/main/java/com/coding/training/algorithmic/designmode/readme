@@ -1,0 +1,27 @@
+https://cloud.tencent.com/developer/article/1481992
+
+设计模式	                    常用程度    	结构复杂度	体现的原则
+Builder(建造者模式)	        一般	        一般	        开闭原则
+Adapter(适配器模式)	        一般	        一般
+Bridge(桥接模式)	            一般	        一般	        开闭原则
+Mediator(中介者模式)	        一般	        一般	        开闭原则
+State(状态模式)	            一般	        一般	        单一职责原则
+Flyweight(享元模式)	        不太常用	    一般
+Strategy(策略模式)	        比较常用	    一般	        里氏代换原则          *
+Decorator(装饰模式)	        一般	        比较复杂	    开闭原则
+Visitor(访问者模式)	        一般	        比较复杂	    开闭原则
+ChainOfResp(职责连模式)	    不太常用	    比较复杂
+Interpreter(解释器模式)	    不太常用	    比较复杂
+Abstract Factory(抽象工厂)	比较常用	    比较复杂	    开闭原则
+Composite(组合模式)	        比较常用	    比较复杂	    里氏代换原则          *
+Iterator(迭代器模式)	        一般	        比较简单	    单一职责原则
+Memento(备忘录模式)	        一般	        比较简单	    接口隔离原则
+Prototype(原型模式)	        不太常用	    比较简单	    依赖倒置原则
+Command(命令模式)	            比较常用    	比较简单	    开闭原则             *
+Observer(观察者模式)	        比较常用	    比较简单	    开闭原则             *
+FactoryMethod(工厂方法)	    很常用	    简单	        开闭原则             *
+Singleton(单例模式)	        很常用	    简单                             *
+Facade(门面模式)	            很常用	    简单	        开闭原则              *
+TemplateMethod(模板方法)	    很常用	    简单	        依赖倒置原则           *
+Proxy(代理模式)	            比较常用	    简单	        里氏代换原则          *
+
