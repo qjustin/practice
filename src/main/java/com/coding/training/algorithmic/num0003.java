@@ -12,4 +12,30 @@ package com.coding.training.algorithmic;
  * https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
  */
 public class num0003 {
+    public static void main(String[] args) {
+        System.out.println(replaceSpace("We are happy."));
+    }
+
+    public static String replaceSpace(String str) {
+        char[] arr = str.toCharArray();
+        int spaceCount = 0;
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] == ' ') {
+                spaceCount++;
+            }
+        }
+        char[] result = new char[str.length() + spaceCount * 2 + 1];
+        for (int i = 0, j = 0; i < arr.length; i++, j++) {
+            if (arr[i] == ' ') {
+                result[j] = '%';
+                result[j + 1] = '2';
+                result[j + 2] = '0';
+                j += 2;
+            } else {
+                result[j] = arr[i];
+            }
+        }
+
+        return new String(result);
+    }
 }
