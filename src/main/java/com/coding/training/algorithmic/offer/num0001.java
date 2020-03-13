@@ -1,4 +1,4 @@
-package com.coding.training.algorithmic;
+package com.coding.training.algorithmic.offer;
 
 import java.util.Arrays;
 

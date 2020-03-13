@@ -1,4 +1,4 @@
-package com.coding.training.algorithmic;
+package com.coding.training.algorithmic.offer;
 
 /**
  * 面试题04. 二维数组中的查找

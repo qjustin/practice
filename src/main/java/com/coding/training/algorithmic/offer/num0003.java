@@ -1,4 +1,4 @@
-package com.coding.training.algorithmic;
+package com.coding.training.algorithmic.offer;
 
 /**
  * 面试题05. 替换空格
