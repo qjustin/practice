@@ -25,7 +25,7 @@ package com.coding.training.algorithmic.offer;
  * 当目标值 < 右上角值， 列--
  * 当目标值 > 右上角值， 行--
  */
-public class num0002 {
+public class Num0002 {
     public static void main(String[] args) {
         int[][] arr = new int[][]{
                 {1, 4, 7, 11, 15},

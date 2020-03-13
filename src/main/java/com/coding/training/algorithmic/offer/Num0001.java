@@ -14,7 +14,7 @@ import java.util.Arrays;
  * 2 <= n <= 100000
  * 链接：https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof
  */
-public class num0001 {
+public class Num0001 {
     public static void main(String[] args) {
         int[] nums = new int[]{2, 3, 1, 0, 2, 5, 3, 2};
         int[] records = new int[nums.length];

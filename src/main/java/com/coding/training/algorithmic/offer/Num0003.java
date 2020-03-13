@@ -11,7 +11,7 @@ package com.coding.training.algorithmic.offer;
  * 通过次数12,040提交次数15,437
  * https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
  */
-public class num0003 {
+public class Num0003 {
     public static void main(String[] args) {
         System.out.println(replaceSpace("We are happy."));
     }
