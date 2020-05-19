@@ -11,6 +11,7 @@
     <modules>
         <module>java</module>
         <module>osgi</module>
+        <module>documents</module>
     </modules>
 
     <properties>

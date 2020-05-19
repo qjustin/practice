@@ -44,7 +44,7 @@ package com.coding.training.algorithmic.history.designmode.singleton;
  * 进阶
  * 在一次回答上述问题时，忘记了解释一个很容易引起疑惑的问题：
  *
- * 如果存在这种重排序问题，那么synchronized代码块内部不是也可能出现相同的问题吗？
+ * 如果存在这种重排序问题，那么synchronized代码块内部不是也可能出现相同的问题吗?
  *
  * 即这种情况：
  *
@@ -60,7 +60,7 @@ package com.coding.training.algorithmic.history.designmode.singleton;
  *         }
  *     ...
  * }
- * 难道调用instance.toString()方法时，instance也可能未完成初始化吗？
+ * 难道调用instance.toString()方法时，instance也可能未完成初始化吗?
  *
  * 首先还请放宽心，synchronized代码块内部虽然会重排序，但不会在代码块的范围内导致线程安全问题。
  *

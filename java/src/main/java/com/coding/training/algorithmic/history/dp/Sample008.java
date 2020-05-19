@@ -44,7 +44,7 @@ package com.coding.training.algorithmic.history.dp;
  *
  *      没有其他找零方法了，∴dp[2]=f1=1;
  *
- *     （找零1元+1枚1元硬币？不存在的）
+ *     （找零1元+1枚1元硬币?不存在的）
  *
  * 4.找零3元：
  *
@@ -52,7 +52,7 @@ package com.coding.training.algorithmic.history.dp;
  *
  *      没有其他找零方案了，∴p[3]=f1=1;
  *
- *     （找零2元+1枚1元硬币？找零2元的方案倒是有，但没有1元硬币啊）
+ *     （找零2元+1枚1元硬币?找零2元的方案倒是有，但没有1元硬币啊）
  *
  * 5.找零4元：
  *

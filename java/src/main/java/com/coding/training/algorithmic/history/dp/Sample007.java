@@ -5,7 +5,7 @@ package com.coding.training.algorithmic.history.dp;
  *
  * 机器人每次只能向下或者向右移动一步。机器人试图达到网格的右下角（在下图中标记为“Finish”）。
  *
- * 问总共有多少条不同的路径？
+ * 问总共有多少条不同的路径?
  *
  * 示例 1:
  *
