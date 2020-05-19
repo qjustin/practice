@@ -65,7 +65,8 @@
     * JDK7和JDK8扩容过程中转移元素的逻辑不一样，JDK7每次转移一个元素，JDK8是先算出来当前位置上哪些元素在新数组的低位上，哪些在新数组的高位上，然后在一次性转移
 
 * JDK1.8 HashMap 内部的数据结构?
-    * JDK1.8版本的，内部使用数组 + 链表红黑树 (00001.jpg)
+    * JDK1.8版本的，内部使用数组 + 链表红黑树 
+    ![avatar](https://github.com/qjustin/practice/blob/master/documents/images/00001.jpg)
     
 * JDK1.8 HashMap put操作过程 (00002.jpg)
     * 判断数组是否为空，为空进行初始化;
