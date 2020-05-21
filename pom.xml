@@ -12,6 +12,7 @@
         <module>java</module>
         <module>osgi</module>
         <module>documents</module>
+        <module>git</module>
     </modules>
 
     <properties>
